@@ -152,7 +152,6 @@ If you found no solution in the issues, feel free to open a new issue for your p
 4. Clone this repository into your catkin workspace, install the dependencies and build it:
 
     ```bash
-    cd ~/catkin_ws/src/
     git clone https://github.com/Oballon/iai_kinect2_opencv4.git
     cd iai_kinect2_opencv4
     rosdep install -r --from-paths .
